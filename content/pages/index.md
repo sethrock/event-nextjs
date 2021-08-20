@@ -71,7 +71,7 @@ sections:
         content: >
           Sometimes in order to truly experience you need to put your hands all
           over it. Taste it, Lick it. Love it. It won't bite.... that hard. 
-        image: images/feature-1.jpg
+        image: /images/IMG_2753.jpeg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
