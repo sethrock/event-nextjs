@@ -20,9 +20,9 @@ sections:
     grid_items:
       - title: The Introduction
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >
+          Embark on a beautiful introduction. This will be the 3,600 seconds of
+          your life. 
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
