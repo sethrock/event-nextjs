@@ -12,7 +12,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image: /images/IMG_2753.jpeg
     background_image_opacity: 15
     background_image_size: cover
