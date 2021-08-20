@@ -40,7 +40,8 @@ sections:
         image_width: twenty-five
       - title: The Ideal
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: |
+          What's better than 1 hour or 90 minuets with me? 2 Hours of Course!
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
