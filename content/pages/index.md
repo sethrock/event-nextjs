@@ -56,9 +56,9 @@ sections:
   - type: features_section
     title: What you’ll experience
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          You will be coming so much that you will need to change your name to
+          Mr. Nutcase
         align: center
     feature_padding_vert: medium
     align: center
