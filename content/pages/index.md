@@ -30,7 +30,9 @@ sections:
         image_width: twenty-five
       - title: The Deeper Dive
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: >
+          Dive deeper with a 90 minuet session that will for sure have you
+          coming back for more.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
