@@ -18,7 +18,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: The Introduction
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
