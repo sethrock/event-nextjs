@@ -21,8 +21,8 @@ sections:
       - title: The Introduction
         title_align: left
         content: >
-          Embark on a beautiful introduction. This will be the 3,600 seconds of
-          your life. 
+          Embark on a beautiful introduction. This will be the best 3,600
+          seconds of your life.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
