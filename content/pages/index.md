@@ -248,7 +248,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Reviews
-    subtitle: Previous event attendees
+    subtitle: What Clients Are Saying
     grid_items:
       - content: >-
           I've had a wonderful few days at Event Conf. So grateful to have been
