@@ -250,12 +250,20 @@ sections:
     title: Reviews
     subtitle: What Clients Are Saying
     grid_items:
-      - content: >-
-          I've had a wonderful few days at Event Conf. So grateful to have been
-          a part of it.
+      - content: >
+          Sera is definitely the lady in the pictures. She opened the door in
+          some awesome lingerie with a kiss and hug.  She’s very bubbly and has
+          a great personality. We chatted for a few than  got the party started.
+          That body is absolutely stunning she has a very gorgeous face. She
+          definitely know what she’s doing. She loves what she does and it shows
+          with all the orgasms. She is definitely one to go see just be patient
+          with time as she’s a little late making sure everything is just
+          perfect for your time together. I will definitely see her again. That
+          ass she has is amazing I can’t get it out of my mind. Thank you the
+          awesome time together. 
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck,** PrivateDeights
         image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
