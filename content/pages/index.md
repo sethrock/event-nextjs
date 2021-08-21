@@ -268,12 +268,20 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Been super impressed with developer talks of the Event Conf. Great
-          conference realy enjoy it!
+      - content: >+
+          I've met with Sera twice. Both times were absolutely wonderful.  She
+          is by far, hands down one of the sexiest and most beautiful woman I
+          have ever seen or met before. I'm not exaggerating at all. She smells
+          delightful,  her skin is smooth and extremely soft and she tastes
+          delicious.  True GFE provider. One of the best.  She does have a
+          little trouble with being on time. Hahaha! (Inside joke) Can't get
+          annoyed at someone as hot as her.  If you ever get the chance to meet
+          with her.  I seriously advise you take it. You will not be
+          disappointed.  Oh yeah, she is cool AF.  I will be seeing her soon.  
 
 
-          **Miles Tone,** *CEO, Studio*
+          **MilesTone,** Private Delights
+
         image: images/miles-tone.jpg
         image_alt: Miles Tone
         image_position: left
