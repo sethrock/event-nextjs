@@ -228,7 +228,7 @@ sections:
           allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: 'Um, its about your JavaScript...Ka'
+      - title: Karate!
         content: >-
           JAMstack is revolutionising the way we think about workflow by
           providing a simpler developer experience, better performance, lower
