@@ -236,6 +236,12 @@ sections:
           cost and greater scalability. From JAMstack WTF
         media_position: left
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/zF2GGh_hWc0?start=34"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     padding_top: large
