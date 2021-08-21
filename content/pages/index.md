@@ -160,7 +160,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_4.jpg
+        image: /images/IMG_0020.jpeg
         image_alt: Speaker 4 photo
         image_position: top
       - title: Shequondolisa Bivouac
