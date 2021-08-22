@@ -7,7 +7,7 @@ sections:
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Schedule Your Rendezvous
-        url: /about
+        url: 'https://sera.as.me/?calendarID=5662289'
         style: primary
     align: center
     padding_top: large
