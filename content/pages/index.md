@@ -12,7 +12,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     background_image: /images/IMG_2804.jpeg
     background_image_opacity: 50
     background_image_size: cover
