@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "SERA",
-        "logo": "images/logo.svg",
+        "logo": "/images/IMG_2804.jpeg",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
