@@ -19,7 +19,7 @@ sections:
     has_border: true
     video_embed_html: >-
       <iframe src="https://www.pornhub.com/embed/ph605344042edbd"
-      frameborder="0" width="1200" height="500" scrolling="no"
+      frameborder="0" width="1200" height="300" scrolling="no"
       allowfullscreen></iframe>
   - type: grid_section
     grid_items:
