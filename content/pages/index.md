@@ -16,6 +16,7 @@ sections:
     background_image: /images/IMG_2804.jpeg
     background_image_opacity: 50
     background_image_size: cover
+    has_border: true
   - type: grid_section
     grid_items:
       - title: The Introduction
