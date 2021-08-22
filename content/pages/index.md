@@ -9,7 +9,7 @@ sections:
       - label: Schedule Your Rendezvous
         url: 'https://sera.as.me/?calendarID=5662289'
         style: primary
-        has_icon: true
+        has_icon: false
     align: center
     padding_top: large
     padding_bottom: large
