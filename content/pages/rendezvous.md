@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Rendezvous
 seo:
   title: ''
   description: ''
